@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Owen Laney
+- 👋 Hi, I’m Owen
 - 📫 You can contact me @ owenlaney@gmail.com
 
 <!---
