@@ -3,7 +3,7 @@ Hi! My name is Owen Laney, and I'm a student and developer living in the United 
 
 ### 📫 Contact :
 ✉️ Email: owenlaney@gmail.com\
-🌍 Website: Coming soon! 🏗️
+🌍 Website: owen-laney.github.io
 
 ###  📊 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=owen-laney&theme=light&background=f6f8fa)](https://git.io/streak-stats)
