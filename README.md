@@ -1,6 +1,5 @@
 ### ℹ️ About me :
-Hi! My name is Owen Laney, and I'm a student and developer living in the United States. 
-
+ Hello! I am Owen Laney, and I like to make fun and interesting software projects.
 ### 📫 Contact :
 ✉️ Email: owenlaney@gmail.com\
 🌍 Website: [owen-laney.github.io](https://owen-laney.github.io)
