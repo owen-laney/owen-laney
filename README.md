@@ -1,11 +1,6 @@
-### ℹ️ About me :
- Hello! I am Owen Laney, and I like to make fun and interesting software projects.
-### 📫 Contact :
-✉️ Email: owenlaney@gmail.com\
-🌍 Website: [owen-laney.github.io](https://owen-laney.github.io)
+This is my personal github account. Feel free to fork or download whatever, I release everything under permissive licences.
 
-###  📊 Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=owen-laney&theme=light&background=f6f8fa)](https://git.io/streak-stats)
+You can contact me at owenlaney@gmail.com
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owen-laney)](https://github.com/anuraghazra/github-readme-stats) --->
 
