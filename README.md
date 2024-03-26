@@ -1,4 +1,4 @@
-This is my personal github account. Most of what I make is open source, so feel free to fork or download anything you want to!
+Hey, I'm Owen. I'm a student who's passion for building high quality websites and user centered designs let me to taking on projects and making this GitHub. Feel free to fork any of my open source projects and take a look at my socials if you're interested in anything I've made!
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owen-laney)](https://github.com/anuraghazra/github-readme-stats) --->
 
